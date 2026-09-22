@@ -385,30 +385,26 @@ Live Web Application
 https://bone-health-ai-6sunz4xsbqppzi6mbbduzv.streamlit.app/
 
 ---
-
 # Screenshots
-
-> Add screenshots of the deployed application here.
-
-Recommended screenshots:
 
 ### Dashboard / Input Interface
 
-`docs/screenshots/home.png`
+<img src="home.png" alt="Bone Health AI Dashboard" width="900">
 
-### Prediction Result
+### Risk Prediction
 
-`docs/screenshots/prediction.png`
+<img src="prediction.png" alt="Bone Health AI Risk Prediction" width="900">
 
 ### SHAP Explanation
 
-`docs/screenshots/shap.png`
+<img src="shap.png" alt="SHAP Explainable AI Analysis" width="900">
 
-### PDF Report
+### PDF Assessment Report
 
-`docs/screenshots/report.png`
+<img src="report.png" alt="Bone Health AI PDF Report" width="900">
 
 ---
+
 
 # Engineering Highlights
 
