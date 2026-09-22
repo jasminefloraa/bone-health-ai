@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦴 Bone Health AI
+# 🩻 Bone Health AI
 
 ### AI-Based Bone Health Monitoring for Postpartum Women After Caesarean Delivery
 
